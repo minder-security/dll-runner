@@ -1,0 +1,2 @@
+# dll-runner
+A simple program used to load a DLL and run exported functions. Especially useful during sandbox execution of DLLs.
